@@ -1,6 +1,6 @@
                                                digital_literacy_vityarthi
 
-CSE0001-Digital-Literacy project
+CSE0001-Digital-Literacy project  
 NAME - UJJWAL ANAND
 
 REG NO.-25BCE10966
